@@ -2,7 +2,14 @@
 
 Il nuovo formato dei documenti Office (docx, xlsx, pptx) consiste in una cartella zip che contiene dati strutturati in XML.
 
-##Proprietà
+##Powerpoint
+
+In un documento `pptx`:
+
+* ppt
+  * media (lì si trovano le immagini ed i filmati)  
+
+##Proprietà di un documento Excel
 
 Le proprietà di un documento sono conservate all'interno della cartella `/customXml`.
 Lì si trovano tre coppie di documenti:
